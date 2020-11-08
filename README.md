@@ -14,7 +14,7 @@
 
 Buy me a 🍕: Coming Soon
 
-Documentation 📚: Comming Soon
+Documentation 📚: Coming Soon
 
 <br />
 
