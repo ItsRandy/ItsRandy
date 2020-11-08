@@ -9,7 +9,6 @@
 [<img align="left" style="fill: #6441A4; color: #6441A4;" alt="Randy - Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
-<br />
 
 [![Discord](https://discord.com/api/guilds/774804099979411487/widget.json)
 
