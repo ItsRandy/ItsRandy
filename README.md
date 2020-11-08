@@ -11,7 +11,7 @@
 <br />
 <br />
 
-[![Discord](https://cdn.discordapp.com/attachments/774426091367694357/774806934461218856/unknown.png)](https://discord.gg/mvY87yvnjW)
+[![Discord](https://discord.com/widget?id=774804099979411487&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin)
 
 <br />
 
@@ -25,7 +25,7 @@
 
 <br />
 
-<iframe src="https://discord.com/widget?id=774804099979411487&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 
 ----
