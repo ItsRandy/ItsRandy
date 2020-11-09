@@ -32,7 +32,7 @@ Documentation 📚: Coming Soon
 
 
 ----
-[website]: https://Randy.zone
+[website]: http://www.itzrandy.xyz/
 [twitter]: https://twitter.com/Randy
 [twitch]: https://twitch.tv/Randy
 [youtube]: https://www.youtube.com/channel/UCEZurkgkPKLAgrTeyPkUTVA?view_as=subscriber
