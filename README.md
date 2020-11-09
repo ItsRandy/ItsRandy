@@ -14,7 +14,7 @@
 
 Buy me a 🍕: Coming Soon
 
-Documentation 📚: Coming Soon
+Documentation 📚: https://docs.itzrandy.xyz/
 
 <br />
 
