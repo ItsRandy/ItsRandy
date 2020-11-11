@@ -16,7 +16,6 @@ Buy me a 🍕: Coming Soon
 
 Documentation 📚: https://docs.itzrandy.xyz/
 
-A Little bit more about me i have been in the Dev Game for a few years and wish to keep growing
 
 
 <br />
